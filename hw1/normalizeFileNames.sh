@@ -3,7 +3,7 @@
 #        timetesty_snaq.out to timetest0y_snaq.out for y between 1 to 9
 
 for i in {1..9}
-do
+do 
 	if [ -f "log/timetest${i}_snaq.log" ]; then
 		mv "log/timetest${i}_snaq.log" "log/timetest0${i}_snaq.log"
 	fi

@@ -1,10 +1,11 @@
 Stat679: Computing tools for data analytics, Fall 2016
 ======================================================
 
+<<<<<<< HEAD
 Homework 1, for detail description, see:
 https://github.com/UWMadison-computingtools/coursedata/tree/master/hw1-snaqTimeTests
 
-Update: 09/29/16'
+Update: 10/09/16'
 ---
 
 1. normalizeFileName.sh:
@@ -17,3 +18,9 @@ Update: 09/29/16'
 		rootname: the file name root ("xxx")
 		hmax: the maximum number of hybridizations allowed during the analysis: hmax
 		elapsedTime: total CPU time, or "Elapsed time".
+=======
+Homeworks
+
+Update: 09/29/16'
+---
+>>>>>>> 3d0261b7bc987dbc4adec27597fce61c35a28105
